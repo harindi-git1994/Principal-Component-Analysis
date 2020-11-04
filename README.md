@@ -19,4 +19,4 @@ The dataset is related to red and white variants of the Portuguese "Vinho Verde"
   13.Proline
 
 # Target
-My target is to analyze the wine.csv file by applying Pricipal Components analysis. Then find the weights for each indiviual variable and then choose the first six components which carries the most imporatnce. Then apply Linear Regression model to find the best model. 
+My target is to analyze the wine.csv file by applying Pricipal Components analysis. Then find the weights for each indiviual variable and then choose the first six components which carries the most imporatnce. Then apply Linear Regression model to find the best model to wine dataset. 
